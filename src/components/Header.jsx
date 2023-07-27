@@ -10,7 +10,7 @@ export const Header = () => {
     <header>
       <Link to="/" className="logo">
         <img src={Logo} alt="SyncSeduce Logo" />
-        <span>Shopping Cart</span>
+        <span>Shopping Cart - Context and Reducer</span>
       </Link>
       <nav className="navigation">
         <NavLink to="/" className="link" end>Home</NavLink>
