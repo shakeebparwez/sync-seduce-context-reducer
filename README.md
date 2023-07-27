@@ -9,16 +9,6 @@ Sync Seduce is an enhanced version of the static shopping cart imitation, now fe
 - React Router for easy navigation between Home and Cart pages.
 - React Context and Reducer for managing cart state and actions.
 
-## Installation
-
-1. Clone this repository to your local machine.
-2. Ensure you have [Node.js](https://nodejs.org) installed.
-3. Install the dependencies by running `npm install`.
-
-## Usage
-
-Start the development server with `npm start`, and access the application at `http://localhost:3000`.
-
 ## How It Works
 
 Sync Seduce now utilizes React Context and Reducer to manage the cart state and actions. The application allows users to add and remove items from the cart, and the total prices and cart list update dynamically based on user interactions.
